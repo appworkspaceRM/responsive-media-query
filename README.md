@@ -206,5 +206,5 @@ class Landscape extends StatelessWidget {
 }
 
 ```
+![code-snapshot](https://github.com/appworkspaceRM/responsive-media-query/assets/135511281/de149170-f121-469c-a065-1b203dc14622)
 
-foto 1
